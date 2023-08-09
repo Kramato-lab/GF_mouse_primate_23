@@ -3,5 +3,5 @@ Code for analysis of physiology and gene expression data from GF mouse experimen
 
 Code for microbiome data analysis can be found here: https://github.com/Mallott-Lab/PrimateMicrobiomeandBrainGrowth
 
-
+Amato_DESeq2_Code is for differential abundance analysis of liver gene expression data by K. Amato. Reiman_DESeq2_Code is for MiMeNet and pathway analysis of liver gene expression data by D. Reiman.
 
